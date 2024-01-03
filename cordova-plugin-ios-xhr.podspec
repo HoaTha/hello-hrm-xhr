@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "The Adobe PhoneGap Team" => "" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/globules-io/cordova-plugin-ios-xhr.git", :tag => "1.2.4" }
+  s.source       = { :git => "https://github.com/HoaTha/hello-hrm-xhr.git", :tag => "1.2.4" }
   s.source_files  = "src/ios/*.{h,m}"
   s.preserve_paths = "*.md","docs/**/*.md","www/*.js","www/ios/*.js"
   s.requires_arc = true
